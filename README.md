@@ -6,6 +6,7 @@ This repository is for showing how Git and GitHub work
 Este es un ejemplo
 
 ## Purpose
+ejemplo de purpose
 
 ## Deployment
 
