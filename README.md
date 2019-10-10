@@ -11,5 +11,8 @@ ejemplo de purpose
 ## Deployment
 ejemplo de deployment. Cambiamos el ejemplo
 
+## Copyright
+2019. cgarciamo
+
 
 Sample website with plenty of files for demos
