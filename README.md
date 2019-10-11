@@ -18,7 +18,7 @@ por favor, haz fork y pull requests
 
 
 ## Copyright
-2019. cgarciamo
+2019. cgarciamo. All rights reserved.
 
 
 Sample website with plenty of files for demos
