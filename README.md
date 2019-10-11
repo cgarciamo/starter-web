@@ -4,6 +4,8 @@ This repository is for showing how Git and GitHub work.
 
 Adding a line for rebasing example. Then more changes from my features branch too.
 
+Updating emergency fix after stash
+
 ## Introduction
 Este es un ejemplo
 
